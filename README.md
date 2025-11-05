@@ -2,7 +2,6 @@
 
 A clean, elegant, and fully responsive photo gallery showcasing beautiful flower images — built entirely with **HTML5** and **CSS3**. Designed with a focus on visual aesthetics, smooth hover animations, and modern layout techniques.
 
-![Flower Gallery Preview](preview.jpg) <!-- Replace with your actual screenshot -->
 
 ## ✨ Features
 
